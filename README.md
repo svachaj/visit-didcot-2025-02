@@ -2,7 +2,7 @@
 
 ## Presentations
 
-[Advancing the Frontiers of Extreme Light](ELI_UK_2025.pdf)
+[Advancing the Frontiers of Extreme Light](ELI_UK_2025.pdf) (Vojtěch Gaman)
 
 [Integration of EPICS to NI platform](EPICS_NI.pdf) (Karel Majer, Jan fara)
 
